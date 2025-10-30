@@ -334,7 +334,7 @@ const PillarCollaborationTracker = () => {
             </div>
           )}
           <p className="text-gray-600">
-            Strategy Framework to Working Collaborative Action Plan SRIN-Regional Subs
+            Strategy Framework to Working Collaborative Action Plan MX SEAO EA B2B
           </p>
           <p className="text-sm text-indigo-600 font-medium mt-1">
             Supported by Regional Subsidiary MX B2B as Top Down Direction
